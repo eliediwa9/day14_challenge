@@ -1,4 +1,4 @@
-# **************** comparing two items in terms of the numbers of instagram ****************
+# **************** Functions ****************
 
 # Functional requirements
 # 1 Prompt player to enter name
